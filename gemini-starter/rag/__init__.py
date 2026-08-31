@@ -1,0 +1,1 @@
+from .rag_practice import cosine_similarity, get_embedding, chunk_text

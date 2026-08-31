@@ -1,0 +1,163 @@
+MATH 341 Linear Algebra
+Syllabus – Spring 2026
+Instructor: Brother John Sinkovic
+Office: 208A Chapman Hall
+Email: sinkovicj@byui.edu
+Office Phone: 208-496-7562
+Questions/Student Help Hours: If you would like to talk with me about homework problems,
+quizzes, or exams, schedule an appointment through Microsoft Bookings.
+https://bit.ly/sinkovic
+(Please pay attention to the time zone when signing up for a meeting slot. There are options
+for Zoom or in-person meetings.)
+Class: Section 001 MWF 9-10am in RCKS 225
+Section 002 MWF 11:30am - 12:30pm in RCKS 231
+Prerequisites: MATH 112 (Calculus I)
+Textbook: We will use the textbook Linear Algebra and its applications, 6th edition by Lay, Lay,
+McDonald with MyLab.
+You have the option to use a mathematical computation program called Mathematica. Students
+have access to this software on some university computers and it is also available as a free download
+for students for their personal computers. The free download can be found here:
+https://www.byui.edu/mathematics/resources/mathematica
+Another free computational option is Python. If you have not used Python before, I suggest using
+Google Colab to compile and execute Python code.
+Learning Outcomes: The learning outcomes found in the course catalog are listed below.
+Objectives:
+1. Gain proficiency in solving systems of linear equations using matrices, and demonstrate a working
+knowledge of the algebraic properties of matrices.
+2. Understand Euclidean vector spaces, their inherent arithmetic, and algebraic structure, and the
+accompanying geometry that arises.
+3. Acquire facility working with general vector spaces, linear transformations, coordinate vectors,
+and changing of bases.
+4. Develop an algebraic and geometric understanding of eigenvalues, eigenvectors, and eigenspaces.
+5. Use mathematical software and/or calculators to solve a variety of applications in the Physical
+Sciences, Computer Science, or Economics.
+Written Homework: Homework exercises for most sections will be assigned and turned in through
+Canvas. See the posted class schedule for due dates and problems assigned. Written homework
+allows you to develop your mathematical writing and communication skills. Organized, neat work is
+expected.
+There is 24-hour grace period in which late homework is not penalized. After the grace period
+expires, late homework will receive a 10% deduction per day up to 30%. You will always be entitled
+to receive at least 70% of the assignment point total no matter how late you turn it in. For example,
+if you complete your score report for an assignment 50 hours after it was due and you scored 46/50
+points, you would receive 40/50 points.
+There are three parts to completing a homework assignment. The first part is to complete the
+problem set. The second part is to convert your problem set to a pdf and upload it in Canvas. The
+third part is to grade your homework using the provided solutions. The solutions are available in
+Canvas once you have uploaded your problem set.
+Every homework assignment is worth five times the number of problems listed in the problem
+set. In other words, each problem is worth five points. In general, a complete and correct solution
+is worth five points. Very small errors such as dropping a negative sign or a row reduction error
+would be a half point deduction. If there were more than one such error, you should give yourself
+a four. If you gave an honest attempt at solving the problem, but didn’t have a correct approach
+or interpretation, you should get three points out of the five. Attempting a problem would mean
+writing down your thoughts about the problem, writing down which theorem or theorems might
+apply, attempting some calculations, and/or interpreting those calculations. Don’t focus too much
+on errors in your computations. We all make mistakes when doing computations by hand. Did
+you understand the process? Did you understand why you were row reducing or performing the
+calculations? Did you interpret the calculations correctly? Often there are True/False questions in
+the homework. These are worth five points as well. Deduct one half point for each incorrect part.
+Please justify your answer with a theorem or with text from the book. Answering a True/ False
+question correctly includes providing a justification. In summary,
+• 5 points for a complete and correct solution,
+• 4.5 points for a solution with one small error such as a sign error or row reduction error,
+• 4 points for a solution with more than one small error,
+• 3 points for a reasonable attempt at the problem (i.e. you explained your thoughts, cited
+theorems, or performed some calculations but you were not approaching the problem correctly),
+• 0 points for leaving a question blank.
+Each assignment has a score report quiz in Canvas. In each score report, you will provide your
+score as well as a list of the problems for which you deducted points. You should include the problem
+number, the point deduction, and a brief explanation of your mistake.
+Online homework: You will also complete homework using MyLab.
+Reading Quizzes: Reading quizzes are part of preparing for class. Almost every class period will
+have a reading quiz due 15 minutes before class. (No reading quizzes on review days.) You can access
+the reading quizzes in Canvas. I expect you to read the theorems in each section and spend time
+trying to understand them. I do not expect you to understand everything that you read. Reading
+mathematical texts is a skill. It takes time, effort, and practice to develop that skill. Focus on
+understanding definitions and theorems. If you have time, go through examples and try to make up
+your own examples.
+The reading quizzes are not timed. Some students open the reading quiz first to be able to see
+the questions before reading through the theorems.
+Generally, reading quizzes consist of three questions and are open book. The first question asks
+whether you spent at least 15 minutes studying the section. This includes time spent on taking the
+quiz. The next question is meant to focus your attention on important concepts, ideas, and theorems.
+The last question is a multiple choice question. As the reading quizzes are preparation assignments,
+late quizzes have a maximum score of 7 out of 10 points. Your three lowest reading quiz scores will
+be dropped.
+Python Programming assignments: There will be three python programming assignments in
+the semester. No previous programming experience is needed. If you are unfamiliar with Python, I
+suggest using Google Colab to complete the assignments.
+Exams: There are three exams and a final exam. Each exam has a testing center portion and a
+take-home portion. For the testing center portion, you will not be allowed any resources other than a
+scientific calculator and a 3 inch by 5 inch notecard. For the take-home portion, you will be allowed
+to use your book and computational technology such as Python or Mathematica.
+For each of the three exams in the testing center, there will be an opportunity to retake a similar
+exam about a week after each regular exam closes. These retake exams are optional. The better of
+the original exam score and the retake exam score will be used.
+For each of the three take-home exams, you will have one opportunity to correct and resubmit
+after they have been graded.
+
+Attendance and participation: At the end of each week there is an attendance quiz in Canvas.
+It will ask whether you attended on a particular day of the week. My hope is to create a classroom
+atmosphere in which everyone feels comfortable asking questions and working together. Some class
+days, such as review days, we will spend time in groups answering questions. Talking about math,
+and explaining mathematical concepts to others, increases understanding.
+Grading Policy: Your percentage grade is determined by the following:
+Attendance and class participation 5%
+Python Programming Assignments 3%
+Reading Quizzes 12%
+Homework Assignments 20%
+Exam 1 14% May 7 - 12 Testing center
+Exam 2 14% May 28 - Jun 2 Testing center
+Exam 3 16% June 25 - 30 Testing center
+Final Exam 16% July 20 - 23 Testing center
+Default Grading Scale:
+A A- B+ B B- C+ C C- D+ D D- F
+93-100 90-92 87-89 83-86 80-82 77-79 73-76 70-72 67-69 63-66 60-62 ≤ 59
+This scale may be modified/curved at the end of the semester. Any modifications will only increase
+your grade.
+The Learning Model The Learning Model which is based on the three steps Prepare, Teach One
+Another, and Ponder and Prove, is a powerful way to learn and will be used in this course. Prepare:
+By completing the homework assigned the previous class period before the next class period, you will
+be prepared for the next material. You should also read the text book section prior to our discussion
+on it in class. Teach One Another: I encourage you to be engaged in class and an active participant
+in teaching and learning with your fellow class mates. This can happen both in and out side of class
+time. Ponder and Prove: The selected homework assignments provide the opportunity to solidify the
+concepts learned. I also encourage you to utilize the five principles of the learning model: Exercise
+Faith, Learn by the Holy Ghost, Lay Hold on the Word of God, Act for Themselves, and Love, Serve,
+and Teach One Another.
+Respect and Honesty I encourage you to talk together about your homework and study together
+while abiding by the academic honesty policy of the university. The Academic Honesty policy states:
+“A student cheats when he or she attempts to give the appearance of a level of knowledge or skill
+that has not been obtained.” (For example: Copying an answer from someone, the back of the book,
+or any other source without understanding the work and doing it yourself would be cheating. Also
+allowing someone to copy from you is a form of cheating. Getting help and working together is good
+but you should only submit work you understand and can produce). I also expect all students to
+show respect to their peers, the instructor, and themselves and will do the same as the instructor.
+I am grateful for this university and what it stands for. I fully sustain the Honor Code, including
+the Dress and Grooming Standards. I expect all to observe this code and this will contribute to the
+Spirit and learning in our class.
+Help Resources I encourage you to help each other and to set up an appointments via Microsoft
+Bookings. Students have access to a free tutoring service you sign up for online. Search for Academic
+Support Centers on the BYUI webpage for more information.
+Disability Services Statement: Brigham Young University-Idaho is committed to providing a
+working and learning atmosphere that accommodates qualified persons with disabilities. If you have
+a disability and require accommodations, please contact the Disability Services Office (208) 496-9210.
+Reasonable academic accommodations are reviewed for all students who have qualified documented
+disabilities. Services are coordinated with the students and instructor by the Disability Services
+Office.
+
+Preventing Sexual Misconduct: BYU-Idaho prohibits sex discrimination against any partic-
+ipant in its education programs or activities. Prohibited sex discrimination includes incidents of
+sexual harassment (including sexual violence), dating violence, domestic violence, sexual assault, and
+stalking (collectively “sexual misconduct”).
+As an instructor, one of my responsibilities is to help create a safe learning environment for my
+students and for the campus as a whole. University policy requires that I report all incidents of
+sexual misconduct that come to my attention. If you encounter sexual misconduct, please contact
+the Title IX Coordinator at titleix@byui.edu or 208-496-9200. Additional information about sexual
+misconduct and available resources can be found at www.byui.edu/titleix.
+AI Policy: Resources such as ChatGPT, Copilot, and Gemini may be used responsibly as learning
+tools. AI should not be used in a way that replaces learning. If AI is used on assignments, credit
+should be given and a description of how AI was used should be included in the work.
+Syllabus Adjustment: I reserve the right to change the syllabus, class policies, or schedule at any
+time and will notify you in class and/or writing of any changes.
+
